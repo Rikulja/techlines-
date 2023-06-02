@@ -3,5 +3,5 @@
 backend + frontend
 
 
-npm install
-npm run app
+1.npm install
+2.npm run app
